@@ -5,10 +5,11 @@
 <br />
 I'm Dami, a Programmer and Data Analyst
 <br/>
-  <img align="right" alt="GIF" src="https://tenor.com/en-GB/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429" width="200" height="200" />
-  
-**Talking about Personal Stuffs:**
--    I was an accountant in my previous life. 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
+
+** Some Personal Info **
+
+- 🤵🏿‍♂️ I was an accountant in my previous life;
 - 👨🏽‍💻 I’m always working on something cool and recently completed a Masters degree program in Fintech:wink:;
 - 🌱 I’m currently learning and contributing to everything Data Analysis, ML and Software Development for FinTechs; 
 - 💬 Ask me about anything, I am happy to help;
