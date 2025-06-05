@@ -10,7 +10,7 @@ I'm Dami, a Programmer and Data Analyst
 ** Some Personal Info **
 
 - 🤵🏿‍♂️ I was an accountant in my previous life;
-- 👨🏽‍💻 I’m always working on something cool and I also have an M.Sc Degree in Fintech:wink:;
+- 👨🏽‍💻 I’m always working on something cool and I also have an M.Sc. degree in Fintech 😏;
 - 🌱 I’m currently learning and contributing to everything Data Analysis, ML and Software Development for FinTechs; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 My Twitter is [@nelkonnn](https://twitter.com/nelkonnn)
